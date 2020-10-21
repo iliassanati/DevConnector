@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://iliassanati:iliassanati@cluster0.bbpkv.mongodb.net/DEVCONNECTORDB?retryWrites=true&w=majority",
+  "jwtSecret": "MySecret",
+  "githubClientId": "16888f3308914ec4ff9e",
+  "githubSecret": "e81c44c150d0ab22ff4854facca4cf503d920057"
+}
